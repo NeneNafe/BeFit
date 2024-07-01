@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #10c92f;
+    margin: 0;
+}
+.video-container {
+    position: relative;
+    width: 80%;
+    max-width: 800px;
+}
+#main-video {
+    width: 100%;
+    height: auto;
+}
+#pip-video {
+    position: fixed;
+    top: 30px;
+    right: 30px;
+    max-width: 30%;
+    height: auto;
+    border: 2px solid #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
