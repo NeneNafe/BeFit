@@ -1,7 +1,7 @@
 This Folder contains all the files that the building blocks of this project. 
 
-project/
-├── src/
+BeFit/
+├── BeFit-Files/
 │   ├── main_vid.mp4
 │   ├── Interpreter-video.mp4
 │   ├── main.py  # Python script for processing videos
